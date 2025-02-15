@@ -1,0 +1,501 @@
+Objeto,Peligrosidad,Detectado
+Toalla,Baja,0
+Persona,Baja,0
+Toalla,Baja,0
+Sombrero,Baja,1
+Pintura inflamable,Alta,1
+Pozo abierto,Alta,0
+Residuos tóxicos,Alta,0
+Fuga de gas,Alta,1
+Líquido corrosivo,Alta,1
+Material radioactivo,Alta,0
+Andamio inseguro,Alta,0
+Polvos inflamables,Alta,1
+Vehículo industrial,Alta,1
+Taza,Baja,0
+Material radioactivo,Alta,0
+Cadena tensada,Alta,0
+Contenedor presurizado,Alta,0
+Líquido corrosivo,Alta,1
+Chispas,Alta,1
+Ropa,Baja,0
+Bicicleta,Baja,1
+Líquido corrosivo,Alta,1
+Sombrero,Baja,1
+Herramienta cortante,Alta,1
+Vehículo industrial,Alta,1
+Llaves,Baja,0
+Televisor,Baja,1
+Llaves,Baja,1
+Audífonos,Baja,1
+Laptop,Baja,0
+Taza,Baja,1
+Polvos inflamables,Alta,1
+Laptop,Baja,0
+Explosivo,Alta,1
+Maquinaria pesada,Alta,0
+Bolsa,Baja,0
+Gato,Baja,0
+Caja,Baja,0
+Mochila,Baja,0
+Audífonos,Baja,1
+Sombrero,Baja,0
+Residuos tóxicos,Alta,1
+Caja,Baja,1
+Maquinaria pesada,Alta,1
+Gato,Baja,1
+Mochila,Baja,1
+Almohada,Baja,1
+Vehículo industrial,Alta,1
+Equipo en movimiento,Alta,0
+Televisor,Baja,1
+Chispas,Alta,0
+Residuos tóxicos,Alta,0
+Reloj,Baja,0
+Explosivo,Alta,1
+Persona,Baja,0
+Fuga de gas,Alta,1
+Mochila,Baja,0
+Cable eléctrico expuesto,Alta,1
+Cable eléctrico expuesto,Alta,0
+Silla,Baja,0
+Material inflamable,Alta,0
+Pozo abierto,Alta,0
+Reloj,Baja,1
+Vehículo industrial,Alta,1
+Pintura inflamable,Alta,1
+Moldes pesados,Alta,0
+Residuos tóxicos,Alta,0
+Material radioactivo,Alta,1
+Gato,Baja,1
+Persona,Baja,0
+Polvos inflamables,Alta,0
+Equipo en movimiento,Alta,1
+Equipo en movimiento,Alta,0
+Cadena tensada,Alta,0
+Chispas,Alta,0
+Vidrio roto,Alta,0
+Sombrero,Baja,1
+Paraguas,Baja,1
+Polvos inflamables,Alta,0
+Material radioactivo,Alta,1
+Objeto caído,Alta,0
+Sombrero,Baja,1
+Botella de agua,Baja,0
+Riesgo térmico,Alta,0
+Tambor de residuos,Alta,0
+Almohada,Baja,0
+Bicicleta,Baja,0
+Sombrero,Baja,1
+Material radioactivo,Alta,1
+Taza,Baja,1
+Mochila,Baja,1
+Mochila,Baja,0
+Laptop,Baja,1
+Estructura inestable,Alta,0
+Pintura inflamable,Alta,0
+Persona,Baja,1
+Mesa,Baja,1
+Equipo presurizado,Alta,0
+Moldes pesados,Alta,1
+Batería industrial,Alta,1
+Tambor de residuos,Alta,0
+Perro,Baja,0
+Toalla,Baja,1
+Equipo presurizado,Alta,1
+Laptop,Baja,0
+Perro,Baja,1
+Bolsa,Baja,0
+Cadena tensada,Alta,1
+Producto químico,Alta,1
+Chispas,Alta,0
+Taza,Baja,1
+Juguete,Baja,0
+Polvos inflamables,Alta,1
+Polvos inflamables,Alta,0
+Sombrero,Baja,0
+Mesa,Baja,1
+Cámara,Baja,1
+Sombrero,Baja,0
+Material inflamable,Alta,1
+Estructura inestable,Alta,1
+Material radioactivo,Alta,1
+Laptop,Baja,0
+Pelota,Baja,0
+Polvos inflamables,Alta,0
+Libro,Baja,0
+Sombrero,Baja,0
+Fruta,Baja,0
+Reloj,Baja,0
+Moldes pesados,Alta,0
+Zapatos,Baja,0
+Persona,Baja,0
+Estructura inestable,Alta,0
+Equipo en movimiento,Alta,0
+Celular,Baja,1
+Celular,Baja,1
+Líquido corrosivo,Alta,0
+Cilindro de gas,Alta,0
+Celular,Baja,0
+Chispas,Alta,1
+Cable eléctrico expuesto,Alta,1
+Herramienta neumática,Alta,1
+Tambor de residuos,Alta,0
+Mochila,Baja,0
+Libro,Baja,1
+Polvos inflamables,Alta,0
+Herramienta cortante,Alta,0
+Vidrio roto,Alta,0
+Libro,Baja,0
+Contenedor presurizado,Alta,1
+Humo denso,Alta,0
+Humo denso,Alta,0
+Silla,Baja,0
+Pelota,Baja,1
+Lentes,Baja,0
+Polvos inflamables,Alta,0
+Fuga de gas,Alta,0
+Material inflamable,Alta,0
+Sombrero,Baja,1
+Fuga de gas,Alta,1
+Cámara,Baja,0
+Herramienta neumática,Alta,1
+Moldes pesados,Alta,0
+Zapatos,Baja,0
+Contenedor presurizado,Alta,0
+Material radioactivo,Alta,0
+Sombrero,Baja,1
+Cable eléctrico expuesto,Alta,0
+Reloj,Baja,0
+Tambor de residuos,Alta,1
+Cámara,Baja,0
+Bolsa,Baja,1
+Explosivo,Alta,0
+Ropa,Baja,1
+Tambor de residuos,Alta,0
+Residuos tóxicos,Alta,0
+Bicicleta,Baja,1
+Libro,Baja,1
+Contenedor presurizado,Alta,0
+Cilindro de gas,Alta,1
+Material inflamable,Alta,1
+Celular,Baja,1
+Humo denso,Alta,0
+Cámara,Baja,0
+Herramienta neumática,Alta,0
+Bicicleta,Baja,1
+Riesgo térmico,Alta,0
+Residuos tóxicos,Alta,0
+Juguete,Baja,1
+Vidrio roto,Alta,0
+Pozo abierto,Alta,1
+Objeto caído,Alta,0
+Laptop,Baja,0
+Tambor de residuos,Alta,0
+Pelota,Baja,0
+Paraguas,Baja,1
+Almohada,Baja,1
+Tambor de residuos,Alta,1
+Batería industrial,Alta,0
+Objeto caído,Alta,0
+Vehículo industrial,Alta,1
+Pozo abierto,Alta,1
+Reloj,Baja,0
+Material inflamable,Alta,0
+Moldes pesados,Alta,0
+Moldes pesados,Alta,0
+Paraguas,Baja,0
+Residuos tóxicos,Alta,1
+Equipo en movimiento,Alta,1
+Herramienta neumática,Alta,1
+Reloj,Baja,0
+Gato,Baja,1
+Almohada,Baja,1
+Almohada,Baja,1
+Audífonos,Baja,1
+Pelota,Baja,1
+Cámara,Baja,1
+Almohada,Baja,1
+Estructura inestable,Alta,0
+Objeto caído,Alta,1
+Taza,Baja,1
+Celular,Baja,0
+Material inflamable,Alta,0
+Libro,Baja,1
+Residuos tóxicos,Alta,1
+Batería industrial,Alta,0
+Mesa,Baja,0
+Contenedor presurizado,Alta,0
+Cable eléctrico expuesto,Alta,1
+Material radioactivo,Alta,0
+Toalla,Baja,1
+Equipo en movimiento,Alta,0
+Bicicleta,Baja,0
+Botella de agua,Baja,0
+Batería industrial,Alta,0
+Perro,Baja,0
+Material radioactivo,Alta,1
+Riesgo térmico,Alta,1
+Bicicleta,Baja,1
+Polvos inflamables,Alta,1
+Cámara,Baja,1
+Herramienta neumática,Alta,1
+Material inflamable,Alta,1
+Vehículo industrial,Alta,1
+Bicicleta,Baja,1
+Líquido corrosivo,Alta,1
+Fruta,Baja,0
+Maquinaria pesada,Alta,1
+Objeto caído,Alta,1
+Planta,Baja,1
+Zapatos,Baja,1
+Estructura inestable,Alta,0
+Cadena tensada,Alta,1
+Perro,Baja,0
+Juguete,Baja,1
+Reloj,Baja,1
+Taza,Baja,0
+Cadena tensada,Alta,0
+Herramienta neumática,Alta,0
+Fuga de gas,Alta,1
+Mochila,Baja,0
+Cilindro de gas,Alta,1
+Equipo en movimiento,Alta,1
+Humo denso,Alta,1
+Maquinaria pesada,Alta,1
+Gato,Baja,1
+Perro,Baja,1
+Almohada,Baja,1
+Moldes pesados,Alta,0
+Persona,Baja,0
+Herramienta cortante,Alta,1
+Material inflamable,Alta,0
+Toalla,Baja,0
+Audífonos,Baja,1
+Almohada,Baja,1
+Cámara,Baja,0
+Cámara,Baja,1
+Producto químico,Alta,0
+Maquinaria pesada,Alta,1
+Televisor,Baja,0
+Cadena tensada,Alta,0
+Estructura inestable,Alta,0
+Contenedor presurizado,Alta,1
+Equipo en movimiento,Alta,0
+Andamio inseguro,Alta,0
+Caja,Baja,1
+Pelota,Baja,1
+Vehículo industrial,Alta,0
+Gato,Baja,0
+Vidrio roto,Alta,0
+Celular,Baja,0
+Bicicleta,Baja,0
+Material inflamable,Alta,0
+Material radioactivo,Alta,1
+Zapatos,Baja,1
+Celular,Baja,1
+Laptop,Baja,1
+Herramienta neumática,Alta,1
+Toalla,Baja,1
+Tambor de residuos,Alta,0
+Mesa,Baja,0
+Vidrio roto,Alta,1
+Cilindro de gas,Alta,0
+Líquido corrosivo,Alta,1
+Batería industrial,Alta,1
+Andamio inseguro,Alta,1
+Almohada,Baja,1
+Equipo presurizado,Alta,0
+Vehículo industrial,Alta,1
+Equipo presurizado,Alta,0
+Residuos tóxicos,Alta,0
+Gato,Baja,0
+Líquido corrosivo,Alta,0
+Paraguas,Baja,0
+Planta,Baja,1
+Cilindro de gas,Alta,0
+Paraguas,Baja,0
+Humo denso,Alta,1
+Laptop,Baja,0
+Líquido corrosivo,Alta,1
+Polvos inflamables,Alta,0
+Material inflamable,Alta,0
+Polvos inflamables,Alta,0
+Humo denso,Alta,1
+Lentes,Baja,0
+Televisor,Baja,0
+Televisor,Baja,0
+Humo denso,Alta,1
+Bicicleta,Baja,1
+Gato,Baja,1
+Toalla,Baja,1
+Polvos inflamables,Alta,0
+Maquinaria pesada,Alta,0
+Pozo abierto,Alta,0
+Bicicleta,Baja,0
+Celular,Baja,0
+Televisor,Baja,1
+Audífonos,Baja,1
+Persona,Baja,0
+Cadena tensada,Alta,1
+Botella de agua,Baja,1
+Almohada,Baja,1
+Explosivo,Alta,1
+Persona,Baja,0
+Equipo en movimiento,Alta,1
+Gato,Baja,0
+Producto químico,Alta,0
+Televisor,Baja,1
+Líquido corrosivo,Alta,1
+Maquinaria pesada,Alta,0
+Toalla,Baja,0
+Equipo presurizado,Alta,0
+Humo denso,Alta,0
+Andamio inseguro,Alta,1
+Moldes pesados,Alta,1
+Explosivo,Alta,1
+Moldes pesados,Alta,0
+Cable eléctrico expuesto,Alta,1
+Caja,Baja,0
+Sombrero,Baja,1
+Llaves,Baja,0
+Mesa,Baja,0
+Bolsa,Baja,1
+Humo denso,Alta,1
+Residuos tóxicos,Alta,1
+Mesa,Baja,0
+Cadena tensada,Alta,1
+Perro,Baja,0
+Taza,Baja,1
+Tambor de residuos,Alta,1
+Estructura inestable,Alta,0
+Libro,Baja,1
+Material radioactivo,Alta,0
+Reloj,Baja,0
+Zapatos,Baja,1
+Fruta,Baja,1
+Lentes,Baja,0
+Chispas,Alta,1
+Cilindro de gas,Alta,1
+Producto químico,Alta,1
+Televisor,Baja,1
+Juguete,Baja,1
+Caja,Baja,0
+Silla,Baja,1
+Tambor de residuos,Alta,0
+Llaves,Baja,0
+Mesa,Baja,1
+Cilindro de gas,Alta,1
+Toalla,Baja,1
+Zapatos,Baja,1
+Sombrero,Baja,1
+Almohada,Baja,0
+Andamio inseguro,Alta,1
+Estructura inestable,Alta,1
+Riesgo térmico,Alta,1
+Riesgo térmico,Alta,0
+Tambor de residuos,Alta,1
+Ropa,Baja,0
+Material radioactivo,Alta,1
+Gato,Baja,0
+Riesgo térmico,Alta,1
+Persona,Baja,0
+Batería industrial,Alta,1
+Chispas,Alta,1
+Material radioactivo,Alta,0
+Silla,Baja,0
+Pozo abierto,Alta,1
+Producto químico,Alta,1
+Residuos tóxicos,Alta,1
+Cable eléctrico expuesto,Alta,0
+Mochila,Baja,0
+Planta,Baja,0
+Mochila,Baja,1
+Material radioactivo,Alta,0
+Líquido corrosivo,Alta,0
+Líquido corrosivo,Alta,0
+Audífonos,Baja,1
+Audífonos,Baja,0
+Lentes,Baja,1
+Persona,Baja,0
+Cámara,Baja,0
+Mesa,Baja,0
+Equipo en movimiento,Alta,1
+Almohada,Baja,1
+Bolsa,Baja,0
+Planta,Baja,0
+Humo denso,Alta,0
+Paraguas,Baja,0
+Libro,Baja,1
+Vehículo industrial,Alta,0
+Humo denso,Alta,1
+Juguete,Baja,1
+Persona,Baja,0
+Silla,Baja,0
+Ropa,Baja,1
+Pintura inflamable,Alta,0
+Ropa,Baja,0
+Tambor de residuos,Alta,1
+Andamio inseguro,Alta,1
+Tambor de residuos,Alta,1
+Equipo en movimiento,Alta,0
+Estructura inestable,Alta,0
+Líquido corrosivo,Alta,1
+Bicicleta,Baja,1
+Cable eléctrico expuesto,Alta,1
+Planta,Baja,0
+Chispas,Alta,1
+Contenedor presurizado,Alta,1
+Reloj,Baja,0
+Moldes pesados,Alta,1
+Producto químico,Alta,0
+Laptop,Baja,0
+Contenedor presurizado,Alta,1
+Equipo en movimiento,Alta,0
+Chispas,Alta,1
+Paraguas,Baja,1
+Ropa,Baja,1
+Sombrero,Baja,1
+Llaves,Baja,1
+Celular,Baja,0
+Zapatos,Baja,0
+Material inflamable,Alta,0
+Ropa,Baja,1
+Residuos tóxicos,Alta,1
+Gato,Baja,0
+Mochila,Baja,1
+Tambor de residuos,Alta,0
+Toalla,Baja,1
+Explosivo,Alta,1
+Fuga de gas,Alta,0
+Andamio inseguro,Alta,1
+Maquinaria pesada,Alta,1
+Herramienta cortante,Alta,1
+Material radioactivo,Alta,0
+Perro,Baja,0
+Moldes pesados,Alta,1
+Sombrero,Baja,0
+Lentes,Baja,0
+Llaves,Baja,0
+Toalla,Baja,0
+Pozo abierto,Alta,1
+Almohada,Baja,0
+Material radioactivo,Alta,0
+Celular,Baja,1
+Tambor de residuos,Alta,1
+Fuga de gas,Alta,1
+Pozo abierto,Alta,0
+Bicicleta,Baja,1
+Reloj,Baja,1
+Tambor de residuos,Alta,0
+Herramienta neumática,Alta,0
+Producto químico,Alta,1
+Material inflamable,Alta,1
+Vehículo industrial,Alta,1
+Maquinaria pesada,Alta,1
+Ropa,Baja,1
+Libro,Baja,0
+Vidrio roto,Alta,1
+Andamio inseguro,Alta,0
+Residuos tóxicos,Alta,0
+Almohada,Baja,0
